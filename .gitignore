@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+*.manifest
+
+# ffmpeg binaries 
+*.dll
+*.exe
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+# IDE folders
+.vscode/
+.idea/
+
